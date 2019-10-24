@@ -28,15 +28,15 @@ Not really, as it turns out. It made sense to apply the following steps for each
 
 `seller` table:
 
-id | name     | address                | ... 
----|----------|------------------------|-----
-123|Ali Carter|Sevens Street, 7, 100077|...|
+id | name     | address                
+---|----------|------------------------
+123|Ali Carter|Sevens Street, 7, 100077
 
 `account` table:
 
-id | seller_id | card              | expiry | ... 
----|-----------|-------------------|--------|-----
-342|123        |8888 8888 8888 8888|10/17   |...
+id | seller_id | card              | expiry  
+---|-----------|-------------------|--------
+342|123        |8888 8888 8888 8888|10/17   
 
 The above two tables get merged into one db:
 ```javascript
