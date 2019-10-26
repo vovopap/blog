@@ -23,7 +23,7 @@ email: abduvohid.karimjonov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Vokhidjon (vovopap) and I am a software engineer. This website is all about what I do.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vovopap.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vohidkarimjonov
 github_username:  vohidjon
 
@@ -56,3 +56,5 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: vovopap
+# Google services
+google_analytics: UA-129783066-2
