@@ -5,3 +5,9 @@
 layout: home
 ---
 
+<style>
+  .wrapper {
+    max-width: -webkit-calc(960px - (30px * 2));
+    max-width: calc(960px - (30px * 2));
+  }
+</style>
