@@ -24,66 +24,61 @@ permalink: /resume/
 ### Software Engineer
 [GitHub](https://github.com/vovopap) | [LinkedIn](http://www.linkedin.com/in/vohid-karimjonov) | [Email](mailto:abduvohid.karimjonov@gmail.com)
 
-Built an app similar to Google Meet and Zoom in nature, but with great focus on recording high-quality videos remotely.
+Built an app similar to Google Meet and Zoom in nature, but with great focus on recording high-quality videos remotely. Love to tackle algorithmic challenges and deep dive into distributed systems.
 
 # EXPERIENCE
 ---
 
 **Swisscom, January, 2021 – Present <br> Software Engineer L3**
 
-Software Engineer at Wireless tribe
+A member of a team responsible for end-to-end delivery of business features, from gathering requirements, designing solutions to implementing and testing outcomes. As a T-shaped engineer, my responsibilities extend to all aspects of this development lifecycle
 
-**OpenReel, May 2020 – Decemper, 2020 <br> Full-stack Software Engineer**
+**OpenReel, May 2020 – December, 2020 <br> Full-stack Software Engineer**
 
 Developed end-to-end video content creation tool:
-- Worked in an Agile environment using Scrum and Jira to plan and execute user stories.
-- Wrote unit, integration, and E2E tests that contributed to code quality and stability.
-- Reviewed pull requests (2-3 PRs daily) to maintain high code quality and performance.
-- Wrote documentation files to make team onboarding fast and efficient (on project architecture and local project setup).
-- Built a highly-customizable responsive teleprompter which can be controlled remotely in realtime (uses websockets).
-- Developed the initial prototype of a screen annotation feature which later became a core feature of our service.
-- Wrote RESTful endpoints on our backend following MVC architecture and best practices.
-- Laid out ORM data models and wrote migration files to maintain a versioned history of our database schema.
+- Improved code quality and stability by removing flaky tests and increased test coverage from 50% to 90% with unit, integration, and E2E tests.
+- Contributed to code consistency and fast ramp-up of new team members by reviewing 2-3 pull requests daily and by mentoring new team members with onboarding.
+- Improved team onboarding by introducing 3-4 documentation files on project architecture and local project setup.
+- Delivered screen annotation feature by gathering requirements, designing viable solutions, organizing story grooming sessions, and laying out a release strategy.
+- Enabled incremental and reversible management of database schema by implementing schema migration using Sequelize ORM and NodeJS.
+- Delivered features: teleprompter (uses websockets for real-time remote control), screen annotation, video recording (uses MediaStream Recording API), and more.
+
 
 **KeyPlan Solution AB, January 2017 – July, 2020 <br> Full-stack Software Engineer**
 
 Built several key products for retail market:
-- Built a visit scheduler (built on top of FullCalendar) with support for interactive drag/drop scheduling of visits.
-- Designed an offline-first client application using in-browser datastores that automatically sync with the backend. The feature helps our customers work without hassle even in places where connectivity is low and unstable.
-- Optimized the whole CRM system by archiving old data which decreased load times for heavy reports up to 8 times.
-- Helped integrate the TensorFlow Object Detection API to automate the company’s article distribution system.
-- Designed and implemented a file hosting service (inspired by Dropbox and built on top of Amazon S3) as part of KeySale product (a Retail CRM solution).
-- Re-designed our purchase history page to be blazing fast (decreased load time by 80%) by creating smart database indexes and using lazy loading techniques.
-- Integrated caching layer (memcache) into our reporting module which decreased load on our servers by 50%.
-- Implemented master-slave database architecture which decreased latency for our read queries by as much as 40% (with 100:1 read-to-write ratio).
+- Saved users 5 clicks in a user workflow by enhancing our event scheduler component with drag/drop support.
+- Increased the availability of our client application from 0% to 50% offline availability by integrating offline support using in-browser PouchDB datastores which automatically sync with a remote CouchDB instance.
+- Optimized the whole CRM system and decreased load times for heavy reports up to 8 times by archiving old data.
+- Enabled our ML team by building an image cropping tool to efficiently create thousands of training images per day.
+- Decreased load time of our purchase history page by 80% by using database indexes and lazy loading techniques.
+- Reduced CPU usage by 50% to cut our computing costs by using a caching layer (memcache).
+- Decreased latency for our read queries by 40% to increase availability by using master-slave database architecture.
+- Delivered features: file hosting service (inspired by Dropbox and built on top of Amazon S3), reactive price calculator using Angular Framework, and dozens of KPI dashboards using Chart.js.
 
 **Pro7, June 2016 – September, 2016 <br> Software Engineer Intern**
 
-Developed an applicant tracking system (ATS) similar to Greenhouse, BambooHR, and Lever:
-- Designed MySQL database schema for an applicant tracking system (ATS) using normalization techniques.
-- Built candidate assessment and recommendation feature to improve candidate sourcing.
-- Implemented peer-to-peer video interviews using WebRTC.
-
-**Algoritm Consulting, June 2015 – September, 2015 <br> Software Engineer Intern**
-
-Maintained an ERP system for textile manufacturing:
-- Investigated, profiled, and decreased webpage load time by as far as 70% by applying common best practices
-- Optimized SQL queries increasing performance three-fold.
-- Wrote unit and end-to-end tests that contributed to code quality and stability.
+Developed an applicant tracking system (a POC app) similar to Greenhouse, BambooHR, and Lever:
+- Gathered functional and non-functional requirements, created a high level design diagrams, and organized refinement meetings with the product owner and stakeholders.
+- Implemented: MySQL database schema using normalization techniques, peer-to-peer video interviews using WebRTC, and workflow dashboards using Chart.js.
 
 # EDUCATION
 ---
 
-**Westminster International University in Tashkent, 2014 – 2018 <br> BSc in Business Information Systems**
+Westminster International University in Tashkent, Sep 2014 – May 2018, BSc in Business Information Systems
 
-- GPA 3.6 / 4.0
-- Awardee of merit-based scholarship (covers undergraduate)
-- Awardee of Best Final Project
-- Oracle Certified Java Programmer (November, 2015)
+- GPA 3.6 / 4.0, Awardee of merit-based scholarship (covers undergraduate)
+- Oracle Certified Professional Java Programmer (November, 2015)
 
 # VOLUNTARY ACTIVITIES
 ---
 
-- Developed a map-based online service for quickly finding masks during the hardest times of coronavirus distress (limited to users in Tashkent, Uzbekistan).
-- Co-organized programming workshops to teach beginners how to code.
+- Developed a [map-based online service](https://maskabor.web.app) for quickly finding masks during the hardest times of coronavirus distress (limited to users in Tashkent, Uzbekistan).
+- Co-organized programming workshops to teach beginners to code.
 - Contributed to open source on GitHub (e.g. FullCalendar, Coding Interview University)
+
+# LANGUAGES & TECHNOLOGIES
+---
+
+- Proficient: Java, MySQL, CouchDB, JavaScript, TypeScript, Angular
+- Prior experience: PHP, Python, NodeJS, NestJS, MongoDB
