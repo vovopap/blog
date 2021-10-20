@@ -21,7 +21,7 @@
 title: Vohid Karimov
 email: abduvohid.karimjonov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Vohid Karimov, a Software Engineer and Computer Science enthusiast from Uzbekistan. This website is all about what I do. Say hi to me :)
+  A Software Engineer and Computer Science enthusiast from Uzbekistan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vovopap.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vovo_pap
