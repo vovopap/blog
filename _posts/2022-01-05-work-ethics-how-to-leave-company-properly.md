@@ -12,7 +12,7 @@ Writing all these I feel a bit guilty because personally, I am not a perfect exa
 
 Alright, let’s dive in then...
 
-First things first — giving notice. The important thing about giving notice is giving it as early as possible. Even earlier than you are contractually obliged to. This helps your team to recover from the potential loss of you easier by having enough time to transfer knowledge/responsibility and hire a replacement. In my opinion, it is best to inform people at the company about your plans in the following order: your manager, team members, and HR. Be thankful, empathetic, and positive in your communication.
+First things first — giving notice. The important thing about giving notice is giving it as early as possible. Even earlier than you are contractually obliged to. This helps your team to recover from the potential loss of you easier by having enough time to transfer knowledge/responsibility and hire a replacement. In my opinion, it is best to inform people at the company about your plans in the following order: your manager, then HR, and then team members. Be thankful, empathetic, and positive in your communication.
 
 Keeping up your performance during the notice period is important. Don’t be that guy who did nothing the last month at work. However, doing so can be tricky because you no longer have long-term goals in the company and any sign of underperformance can easily be seen as a result of you leaving soon.
 
