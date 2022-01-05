@@ -15,7 +15,11 @@ Contents:
 ## 1. Introduction
 As the title says, this article is going to be all about challenges I have encountered building an offline-first mobile application with CouchDB and my solutions to them. My solutions/approaches are in no way perfect or the only way. That's why I wrote this article - I want you to share your suggestions in the comments section. 
 
-I decided to write this post as a story. A story of 3-4 months of sitting on my couch. By the way, do you remember CouchDB saying to you "Relax"? Personally, I don't really remember relaxing. Anyway, CouchDB does its job!
+I decided to write this post as a story. A story of 3-4 months of sitting on my couch. By the way, do you remember CouchDB saying to you "Relax"?
+
+![Joey and Chandler on the couch](/assets/joey_chandler_on_couchdb.jpeg)
+
+Personally, I don't really remember relaxing. Anyway, CouchDB does its job!
 
 So, let's do it.
 {:#db-structure}
