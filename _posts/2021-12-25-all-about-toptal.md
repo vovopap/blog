@@ -5,7 +5,7 @@ title: "All about Toptal"
 description: "In this post I would like to talk about getting hired into the Toptal network as Software Engineer and working with clients from my own experience"
 tags: ["Toptal", "Interviews", "Work", "Software Engineering", "Freelance"]
 ---
-You can read Uzbek version [here](/2020/12/25/hammasi-toptal-haqida.html)
+You can read Uzbek version [here](/2021/12/25/hammasi-toptal-haqida.html)
 
 {:#intro}
 ## Introduction [#](#intro)
