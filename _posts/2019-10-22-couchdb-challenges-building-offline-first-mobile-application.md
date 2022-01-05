@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "CoucbDB: challenges of building offline-first mobile application"
+title: "CouchDB: challenges of building an offline-first mobile application"
 description: "How to create offline-first application using CouchDB/PouchDB. In this article, I will address many questions regarding CouchDB db structure, data access layer for CouchDB/PouchDB, and several other gotchas"
 tags: ["CouchDB", "PouchDB", "Ionic", "Offline app", "mobile app"]
 ---
 Contents:
 1. [Introduction](#intro)
-1. [Database structure: paradigm shift](#db-structure)
+1. [Database structure: a paradigm shift](#db-structure)
 1. [Authentication & Authorization](#auth)
 1. [Offline & Challenges of synchronization](#offline)
 1. [Conclusion](#conclusion)
@@ -19,8 +19,8 @@ I decided to write this post as a story. A story of 3-4 months of sitting on my 
 
 So, let's do it.
 {:#db-structure}
-## 2. Database structure: paradigm shift
-Before starting the project, I already had a well-defined database schema in SQL and at first it was kind of awkward trying to squeeze an SQL schema into NoSQL. For example, am I going to have 30 CouchDB databases if I have 30 tables?
+## 2. Database structure: a paradigm shift
+Before starting the project, I already had a well-defined database schema in SQL and at first, it was kind of awkward trying to squeeze an SQL schema into NoSQL. For example, am I going to have 30 CouchDB databases if I have 30 tables?
 
 Not really, as it turns out. It made sense to apply the following steps for each type of relationship in my SQL schema:
 
@@ -51,7 +51,7 @@ The above two tables get merged into one db:
 }
 ```
 
-**One-to-many.** This relationship is not much different from one-to-one, except instead of object you have an array as a property. Let's change the previous example and assume one seller has many accounts. Then, we would achieve the following:
+**One-to-many.** This relationship is not much different from one-to-one, except instead of an object you have an array as a property. Let's change the previous example and assume one seller has many accounts. Then, we would achieve the following:
 
 ```javascript
 {
@@ -122,7 +122,7 @@ The above three tables get translated into the following two dbs:
 ```
 The next came the concerns of data integrity. With SQL data integrity is achieved naturally through table schemas: there is a well-defined set of constraints on what you can insert. On the other hand, a CouchDB database is by default loose and absolutely anything can be inserted as a document. 
 
-CouchDB validates data using design documents. More specifically, using validation guards. And, interestingly these documents are stored among other documents in your db. Such design approach is very clever. To understand why it is clever, we first need to understand CouchDB's replication feature (a killer feature).
+CouchDB validates data using design documents. More specifically, using validation guards. And, interestingly these documents are stored among other documents in your db. Such a design approach is very clever. To understand why it is clever, we first need to understand CouchDB's replication feature (a killer feature).
 
 CouchDB is designed with scaling in mind. You can have several CouchDB instances spread across many servers constantly in sync with each other. If you decide to add one more CouchDB instance, all you have to do is to create the dbs in this new instance and activate replications. All the existing data will flow in and since design documents are treated the same way as other documents they also get replicated automatically.
 
@@ -183,12 +183,12 @@ function(newDoc, oldDoc, userCtx, secObj) {
 
 Now, CouchDB calls our validation function every time a document is created or updated. The function checks if a) `username` and `name` are set, b) `reputation` is a number, c) `badges` is an array. Additionally, it also makes sure that `username` is never changed once the document is created.
 
-One last thing in this section. I have realized that it is a bad idea to think SQL-way when reasoning about NOSQL db. Forget the SQL concepts (tables, columns, foreign keys) and its best practices. Read CouchDB's [documentation](https://docs.couchdb.org/en/stable/index.html) and start new.
+One last thing in this section. I have realized that it is a bad idea to think SQL-way when reasoning about NoSQL db. Forget the SQL concepts (tables, columns, foreign keys) and its best practices. Read CouchDB's [documentation](https://docs.couchdb.org/en/stable/index.html) and start new.
 
 {:#auth}
 ## 3. Authentication & Authorization
 
-CouchDB has a very good support for user authentication & authorization. It has a special db named `_user` and special endpoints for signup, signin, logout, change password, etc. What troubled me, though, was document-level access control.
+CouchDB has very good support for user authentication & authorization. It has a special db named `_user` and special endpoints for signup, signin, logout, change password, etc. What troubled me, though, was document-level access control.
 
 Unfortunately, CouchDB as of writing this article has no support for document-level access control. The reason for such design decision is performance/scaling capabilities, which otherwise would be compromized. But, I believe there is some work/discussions happening on this issue and soon they will roll out this much needed feature. Read more [here](https://github.com/pouchdb/express-pouchdb/issues/262), [here](https://stackoverflow.com/questions/30295304/per-document-user-access-control-for-pouchdb-couchdb), and [here](https://news.ycombinator.com/item?id=14950060).
 
@@ -301,7 +301,7 @@ Goodbye, live sync.
 
 I had two ways to solve this problem:
 1. Write a service that synces each db serially using one-time replication. setTimeout(), baby!
-2. Create a nodejs server that listens to global_changes feed and emits events when any change happens in any db. Each client would then listen to this events and run one-time replications only when needed.
+2. Create a nodejs server that listens to global_changes feed and emits events when any change happens in any db. Each client would then listen to these events and run one-time replications only when needed.
 
 The advantage of #1 is easy implementation. The disadvantage is a lot of unnecessary requests to the remote CouchDB, especially if no changes are being made.
 
@@ -477,10 +477,10 @@ export class ProductProvider implements BaseInterface {
 
 Let me recap the questions I have attempted to answer in this article:
 
-* How to transition from SQL to NOSQL if I already have a relational database?
+* How to transition from SQL to NoSQL if I already have a relational database?
 * How to validate documents in CouchDB?
 * How to achieve document-level access control?
-* How to create offline-first application using CouchDB/PouchDB?
+* How to create an offline-first application using CouchDB/PouchDB?
 * How to implement authentication & authorization if I am using PouchDB?
 * How to restrict write access in CouchDB?
 * How to setup replication if I have many CouchDB databases?
