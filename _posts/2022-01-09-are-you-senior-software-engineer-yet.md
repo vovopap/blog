@@ -6,7 +6,7 @@ description: "What it takes to become a senior software engineer"
 tags: ["Work", "Senior Software Engineer", "Software Engineering", "Career", "Growth in Tech"]
 ---
 
-As of writing this post, it has been approximately 7 years since I wrote my first hello world program. During this time, I have gained a lot of knowledge and been part of dozens of interesting projects. Somewhere in the middle of this career I felt and knew that I was no longer a newbie, but rather a mid-level engineer. The real question for me now is whether I am a senior software engineer or not there.
+As of writing this post, it has been approximately 7 years since I wrote my first hello world program. During this time, I have gained a lot of knowledge and been part of dozens of interesting projects. Somewhere in the middle of this career I felt and knew that I was no longer a newbie, but rather a mid-level engineer. The real question for me now is whether I am a senior software engineer or not there yet.
 
 The following more or less sums up my career transition from my perspective:
 * Why my z-index is having no effect on the page style? Damn what a noob I am :(
@@ -40,7 +40,7 @@ The skills mentioned above are quite overlapping. For example, code reviews and 
 
 I have been recently introduced to the interesting idea of a T-shaped engineer. It basically means that the engineer is an **expert in one specific area** of software engineering while being fairly competent in other areas. It begs the question of why you would want to be an expert in something. The answer is to have a greater-than-average impact. Being the best at one thing is always better than being good at many things. Being fairly competent in other areas is also important since you can still bring about good outcomes in a collaborative environment.
 
-Understanding the trade-offs behind every design decision — SQL or NoSQL? UDP or TCP? Availability or Consistency? REST or RPC? etc — is an essential skill for a senior engineer, which is a reason why most companies thoroughly interview senior candidates on **system design**. The deeper you understand the underlying elements of these trade-offs, the better your design decisions are.
+Understanding the trade-offs behind every design decision — SQL or NoSQL? UDP or TCP? Availability or Consistency? REST or RPC? etc — is an essential skill for a senior engineer, which is the reason why most companies thoroughly interview senior candidates on **system design**. The deeper you understand the underlying elements of those trade-offs, the better your design decisions are.
 
 The last question to ask yourself before changing your title on LinkedIn to “Senior Software Engineer” is whether or not you **delivered a feature/product end-to-end** successfully. It is the part where all things discussed above come together to make an actual impact — to deliver something that truly matters at the end of the day. The end-to-end delivery of a feature consists of several different stages: gathering requirements, designing solutions, implementation, testing, releasing, and maintenance. Delivering a feature is usually not a one-person job, but if that is the case you should be able to do all those stages independently. Delivering a feature is usually teamwork and as a senior engineer, you actively contribute to requirements gathering and solution designing while guiding the rest of the work.
 
