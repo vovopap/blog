@@ -5,7 +5,7 @@ title: "Hammasi Toptal haqida"
 description: "Ushbu postda men o'z tajribamdan kelib chiqib, Toptal tarmog'iga kirish va mijozlar bilan ishlash haqida gapirmoqchiman."
 tags: ["Toptal", "Intervyular", "Ish", "Dasturiy ta'minot", "Frilans"]
 ---
-Inglizcha versiyasini [bu yerda](/2021/12/25/all-about-toptal.html) o'qishingiz mumkin
+[Inglizcha versiyasini [bu yerda](/2021/12/25/all-about-toptal.html) o'qishingiz mumkin]
 
 {:#kirish}
 ## Kirish [#](#kirish)

@@ -5,6 +5,9 @@ title: "Work ethics: how to leave a company properly"
 description: "How to successfully offboard your company."
 tags: ["Work", "Work ethics", "Offboarding", "Software Engineering", "Career"]
 ---
+[You can read Uzbek version [here](/2022/01/06/ishni-muvaffaqiyatli-tark-etish.html)]
+
+![Task failed successfully](/assets/task-failed-successfully.jpeg)
 
 At some point during our career, we all at least once have to send out that resignation letter. It could be for various reasons such as moving to another company, retiring, or starting your own business pursuit. No matter what the reason is, offboarding your team successfully is as important as onboarding it so. Some, I hope not most, will ask why would you want to make an extra effort on that? The reason is the same reason why you throw that used napkin in the trash bin. It is about being a good person in general and being a good professional in this case.
 
