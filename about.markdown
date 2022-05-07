@@ -28,10 +28,19 @@ Built an app similar to Google Meet and Zoom in nature, but with great focus on 
 
 # EXPERIENCE
 ---
+**Google, February, 2022 – present <br> SWE, Android Auto**
 
-**Swisscom, January, 2021 – Present <br> Software Engineer L3**
+- Amazing work in progress!
 
-A member of a team responsible for end-to-end delivery of business features, from gathering requirements, designing solutions to implementing and testing outcomes. As a T-shaped engineer, my responsibilities extend to all aspects of this development lifecycle
+**Swisscom, January, 2021 – January, 2022 <br> Software Engineer**
+
+Developed end-to-end business features under Order Submission module by gathering requirements, designing/implementing solutions, and testing outcomes:
+- Migrated the development workflow from GitFlow to Trunk-based without any hiccup in our daily work.
+- Led and successfully completed releases of our frontend app for our 2.5m userbase by canary-rolling out the updates.
+- Volunteered and helped to hire dozens of Software Engineering talents by conducting technical and behavioral interviews.
+- Contributed to our internal wiki by writing dozens of technical & non-technical docs.
+- Helped to onboard a new joiner by organizing frequent 1:1 sessions in their first 3 months to help solve both technical and non-technical issues.
+- Improved our codebase by actively reviewing 4-5 pull requests daily.
 
 **OpenReel, May 2020 – December, 2020 <br> Full-stack Software Engineer**
 
