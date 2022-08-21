@@ -10,7 +10,7 @@ It’s been six months since I started my work at Google in Munich, Germany. I j
 
 - perks & benefits
 - work-life balance
-- technical complexity & internal tooling
+- technical complexity & tooling
 - people
 
 I will conclude this post series by answering the question I have been asked several times by friends and professionals in my circle - Was it worth it?
