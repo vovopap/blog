@@ -5,7 +5,7 @@ title: "Six months into Google as Software Engineer: work-life balance"
 description: "In this post I write about my experience working at Google for the last six months"
 tags: ["Google", "Perks & benefits", "Work-life balance", "Google internal tooling", "Career", "Growth in Tech", "Software Engineering"]
 ---
-[Previous chapter: perks & benefits](/2022/08/21/six-months-into-google-p2-perks-benefits.html)
+[<< Previous chapter: perks & benefits](/2022/08/21/six-months-into-google-p2-perks-benefits.html)
 
 You are more like to overwork (and eventually burn out) in a company where your teammates are staying at work past 5 pm than at a company where people leave the office on time. Google, fortunately, turned out to be the place where people take work-life balance seriously. One thing I noticed at the company was that when you are the last person staying in the office oftentimes the person leaving the office before you will tell you not to work too much and go home. That is something I have never seen before.
 
@@ -20,4 +20,4 @@ Unfortunately, leaving the work zone does not happen on its own. You need someth
 ![One does not simply leave work and not think about work](/assets/one-does-not-simply-leave-work.jpeg)
 
 
-[Next chapter: technical complexity & tooling](/2022/08/21/six-months-into-google-p4-technical-complexity-tooling.html)
+[>> Next chapter: technical complexity & tooling](/2022/08/21/six-months-into-google-p4-technical-complexity-tooling.html)

@@ -30,7 +30,7 @@ Built an app similar to Google Meet and Zoom in nature, but with great focus on 
 ---
 **Google, February, 2022 – present <br> SWE, Android Auto**
 
-- Amazing work in progress..
+- Amazing work in progress...
 
 **Swisscom, January, 2021 – January, 2022 <br> Software Engineer**
 

@@ -5,7 +5,7 @@ title: "Six months into Google as Software Engineer: perks & benefits"
 description: "In this post I write about my experience working at Google for the last six months"
 tags: ["Google", "Perks & benefits", "Work-life balance", "Google internal tooling", "Career", "Growth in Tech", "Software Engineering"]
 ---
-[Previous chapter: intro](/2022/08/20/six-months-into-google-p1-intro.html)
+[<< Previous chapter: intro](/2022/08/21/six-months-into-google-p1-intro.html)
 
 Google is famous for its generous perks & benefits. Google has many perks & benefits and it wouldn't actually be useful to list them all here. Instead, I will talk about those perks & benefits that stood out for me and made a difference in my life.
 
@@ -33,4 +33,4 @@ Google provides a full relocation package to its employees. Pretty much everythi
 
 
 
-[Next chapter: work-life balance](/2022/08/21/six-months-into-google-p3-work-life-balance.html)
+[>> Next chapter: work-life balance](/2022/08/21/six-months-into-google-p3-work-life-balance.html)
