@@ -22,7 +22,7 @@ permalink: /resume/
 </style>
 
 ### Software Engineer
-[GitHub](https://github.com/vovopap) | [LinkedIn](http://www.linkedin.com/in/vohid-karimov) | [Email](mailto:abduvohid.karimjonov@gmail.com)
+[GitHub]({{- site.github_profile -}}) | [LinkedIn]({{- site.linkedin_profile -}}) | [Email]({{- site.email_address -}}) | [Telegram channel]({{- site.telegram_channel -}})
 
 Built an app similar to Google Meet and Zoom in nature, but with great focus on recording high-quality videos remotely. Love to tackle algorithmic challenges and deep dive into distributed systems.
 
