@@ -18,6 +18,6 @@ People at Google hold themselves to a high standard both personally and professi
 
 People at Google are very approachable. There are very few people in the office that I would hesitate to approach. The great thing about this is that it grows on you. As someone in this environment, I feel I have become a much more friendly/communicable person.
 
-On a technical level, people are unsurprisingly very intelligent and surprisingly very humble about it. I noticed that when solving a certain problem they consider may more aspects of the problem than I do. Their background shine with amazing projects and prestigious universities. Welcome to the imposter syndrome. But, do not fear — they have an amazing course on how to deal with it :)
+On a technical level, people are unsurprisingly very intelligent and surprisingly very humble about it. I noticed that when solving a certain problem they consider many more aspects of the problem than I do. Their background shine with amazing projects and prestigious universities. Welcome to the imposter syndrome. But, do not fear — they have an amazing course on how to deal with it :)
 
 [>> Next chapter: is it worth it?](/2022/08/21/six-months-into-google-p6-is-it-worth.html)
