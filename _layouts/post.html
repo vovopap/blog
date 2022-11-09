@@ -13,7 +13,3 @@ comments: true
 <p>{{ page.date | date_to_string }}</p>
 
 {{ content }}
-
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
