@@ -189,3 +189,5 @@ const mevalar = [
 mevalar.reduce((nomlar, meva) => nomlar + meva.nom, 'mevalar:')
 >> 'mevalar:🍏🍌🍓'
 ```
+
+To'gri ozgina aldadim - qulpunoy ham kerak bo'ldi :P
