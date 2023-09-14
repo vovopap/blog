@@ -1,6 +1,6 @@
 ---
 layout: post
-locale: en_US
+locale: uz_UZ
 title: "Interviewda eng ko’p so’raladigan 25ta top java savollari"
 ---
 
