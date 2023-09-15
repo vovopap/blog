@@ -16,10 +16,9 @@ Usha kuni PING_REQUEST kun bo’yi jonimga tegdi. Ertasiga yana dailyda o’rtag
 
 Emotional damage!!! Shu vaziyat menga qattiq tasir qildi. Aslida men nima qilishim kerak edi?
 
-— Muammo borligini anglab yetaman: spam PING_REQUEST log boshqa loglarni o’qigani halaqit qilyapti
-— Uni qanday fix qilishni research qilaman: Logging servisda throttle feature borligini qidirib topaman yoki boshqalardan to’g’ridan-to’g’ri yordam so’rayman
-— Mavjud yechimlarni ko’rib chiqqaman
-— Optimal yechimni kodini yozib code reviewga jo’nataman
-— Ertasiga daily meetingda tepadagi qilgan ishlarimni so’ylab beraman
+<div>— Muammo borligini anglab yetaman: spam PING_REQUEST log boshqa loglarni o’qigani halaqit qilyapti</div>
+<div>— Mavjud yechimlarni ko’rib chiqqaman</div>
+<div>— Optimal yechimni kodini yozib code reviewga jo’nataman</div>
+<p>— Ertasiga daily meetingda tepadagi qilgan ishlarimni so’ylab beraman</p>
 
 Lesson learned: be a problem solver, not just a problem finder.
