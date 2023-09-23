@@ -26,4 +26,4 @@ Do'stlar va tanishlardan oyligini so'rasa bo'ladi. Lekin o'shanda ham aniq bir s
 
 Masalan: "Salom Sardorbek. Men sizni kompaniyangizga ishga topshirmoqchi edim. Iloji bo'lsa meni darajamdagilarga qancha atrofida oylik berishini aytib berolasimi?"
 
-Aytgancha, agar kompaniyalar qancha oylik berishini bilmoqchi bo'lsangiz [levels.fyi](levels.fyi) va shunga o'xshash websitelardan foydalansangiz bo'ladi.
+Aytgancha, agar kompaniyalar qancha oylik berishini bilmoqchi bo'lsangiz [levels.fyi](https://www.levels.fyi/) va shunga o'xshash websitelardan foydalansangiz bo'ladi.
