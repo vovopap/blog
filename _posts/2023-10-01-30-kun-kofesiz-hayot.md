@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: uz_UZ
-title: "Kofe bilan \"xavfli tajriba\""
+title: "30 kun kofesiz hayot"
 ---
 
 ![Code-factory](/assets/code-factory.jpg)
@@ -12,7 +12,7 @@ Bilaman, bilaman, hozir ko’pchiliklaringiz “Eee Vohid, nimalar qilyapsan? Ax
 
 Xavotirlanmanglar, hammasi joyida, ishdan ham haydashmadi (xali).
 
-![Why](/assets/why%3F.jpg)
+![Why](/assets/why.jpg)
 
 Behazil… bu experimentdan asosiy sabab mental sog’likni yaxshilash edi. Mental sog’lik uchun asosiy komponentlardan bir bu yaxshi uyqu xisoblanadi. Menda u yaxshi emas edi.
 
@@ -30,4 +30,4 @@ Behazil… bu experimentdan asosiy sabab mental sog’likni yaxshilash edi. Ment
 — Yo’q, menga kofe juda yoqadi. Keyinchalik baribir ichsam kerak, hozircha qora choy (unda ham anchagina kofein bor) bilan chegaralanib turibman.
 
 *Eee Vohid, men senga kofe obermoqchidim. Endi nima qilaman?*\
-— Hali ham olib bersangiz bo’ladi: [buymeacoffee.com/vovopapcom](buymeacoffee.com/vovopapcom) 😉
+— Hali ham olib bersangiz bo’ladi: [buymeacoffee.com/vovopapcom](https://buymeacoffee.com/vovopapcom) 😉

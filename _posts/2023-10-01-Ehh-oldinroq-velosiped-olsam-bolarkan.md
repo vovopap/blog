@@ -10,14 +10,14 @@ title: "Ehh oldinroq velosiped olsam bo’larkan."
 
 Hayotimda nimalar o’zgardi?\
 — Shaxarni ancha o’rganib oldim. Biladigan hamma joylarimni (uy, ish, shaxar markazi, sevimli restaurantlarim, va hokazo) bir biriga bog’lab mental map paydo qildim. Google Mapsga bog’lanib qolgan ekanman. Hozir telefonimsiz ham chiqib ketaveraman.\
-— Ertalab ishga velosipedda 30 minut yurganim uchun tabiy uygo’nyapman(oldin 11gacha uyqisirab yurardim yoki qora choy ichardim)\
-— Kayfiyat ancha yaxshi. Ayniqsa, velik minayotganimda quloqqa musiqa [shirali](http://youtube.com/watch?v=-sehPIdchoM) kiradi.\
+— Ertalab ishga velosipedda 30 minut yurganim uchun tabiy uyg'onyapman(oldin 11gacha uyqisirab yurardim yoki qora choy ichardim)\
+— Kayfiyat ancha yaxshi. Ayniqsa, velik minayotganimda quloqqa musiqa [shirali](https://youtube.com/watch?v=-sehPIdchoM) kiradi.\
 — Jismoniy ancha tetikman va kunlik energiyam ko’proq.\
 — Qornim ancha kirgan. Six pack bo’lmasa ham, hozircha “flat pack”\
 — Screen time kamaygan (velosipedda telefonga qaramaymanku)\
 — Yaxshiroq kod yozyapman.
 
-_Vohid, sen bizga velosiped ishlatishni maslahar beryapsanmi?_\
+_Vohid, sen bizga velosiped ishlatishni maslahat beryapsanmi?_\
 — Ha.
 
 _Vohid, rostiga velik minganingdan beri yaxshiroq kod yozyapsanmi?_\
