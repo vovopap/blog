@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: uz_UZ
-title: "Rezyumeni qanday yozish kerak?"
+title: "Rezyumeni qanday sayqallash kerak?"
 ---
 
 ![shine](/assets/shine-bright.jpg)
@@ -16,6 +16,6 @@ Rezumeingizni ustida ishlayotganingizda va unga sayqal berayotganingizda har bir
 3. Shu so’zni/gapni qanday oddiylashtirsam bo’ladi?
 4. Shu so’zni/gapni qanday qisqartirsam bo’ladi?
 5. Shu so’z/gap yetarlicha shiralimi?\
-   — Texnik bilimga egam bo’lgan odamda yaxshi taassurot qoldirish uchun yetarlicha texnik malumot bormi?
+   — Texnik bilimga ega bo’lgan odamda yaxshi taassurot qoldirish uchun yetarlicha texnik malumot bormi?
 
 2-3 round shunday qilsangiz rezumeingiz ancha yaxshilanadi 💯
