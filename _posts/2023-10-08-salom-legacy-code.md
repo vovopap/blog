@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: uz_UZ
-title: "7 yillik \"support\""
+title: "Salom legacy code"
 ---
 
 ![pixel-8](/assets/pixel-8.jpg)
