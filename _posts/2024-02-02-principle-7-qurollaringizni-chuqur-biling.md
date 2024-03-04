@@ -11,3 +11,5 @@ Qanday qurollar haqida gap ketyapti? Kunlik ishimiz uchun kerak bo’ladigan har
 Masalan, unix commandalarni chuqur o’rganing, git commit/pull/push komandalari bilan chegaralanmang, frontend uchun Chrome DevToolsni uyog’idan kirib buyog’idan chiqadigan bo’ling, database uchun ‘explain’ query ishlatishni biling, va sevimli editoringiz shortcutlarini aktiv ishlating.
 
 Tepadagi qobilyatlar sizni 10x dasturchisiga aylantiradi 🥷
+
+[>> Principle #8: Faol aloqada bo'ling.](/2024/02/04/principle-8-faol-aloqada-boling.html)

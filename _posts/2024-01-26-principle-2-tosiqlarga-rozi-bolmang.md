@@ -16,3 +16,5 @@ Yo’lingizni ochishni o’rganishingiz kerak:\
 — va hkz
 
 Shundagina bir ishingiz ikki bo’ladi, kunning ohirida o’zingizdan mamnun bo’lasiz, va karyerangiz oldinlaydi 🚀
+
+[>> Principle #3: Tashabbus ko’rsating](/2024/01/27/principle-3-tashabbus-korsating.html)

@@ -17,3 +17,5 @@ Baxtimga boshqa kasblardan farqli o'laroq dasturlash bu muntazam o'rganish jaray
 — va hkz
 
 Eng asosiysi maqsad bilan o’rganing va siz yutasiz 🙂
+
+[>> Principle #7: Qurollaringizni chuqur biling.](/2024/02/02/principle-7-qurollaringizni-chuqur-biling.html)

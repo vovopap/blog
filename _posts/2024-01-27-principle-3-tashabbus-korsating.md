@@ -11,3 +11,5 @@ Shunday ekan, sizga nima qilishni aytishlarini kutmang. Kompaniyangiz va komanda
 Googleda shunday gap bor: Keyingi level promotionini olish uchun, keyingli levelda ijro etish kerak. Yani, sizga senior lavozimi berilishi uchun siz mid-level lavozimida seniordek ishlashingiz kerak. Tashabbus ko'rsatib mustaqil ish oborish esa keyingi levelda ishlash degani.
 
 Albatta tashabbus ko’rsatish bu quruq gap emas. Uni qilaylik buni qilaylik bilan ish bitmaydi. Bu qattiq mehnat — ko’tti qo’yib o’sha ishni qilish kerak! 🍑🪑🚀
+
+[>> Principle #4: Yaxshi yozishni o’rganing.](/2024/01/28/principle-4-yaxshi-yozing.html)

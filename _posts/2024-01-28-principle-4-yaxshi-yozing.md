@@ -19,3 +19,5 @@ oldim:
 — Ha, albatta. Birinchi yozgan design docingni eslaysanmi?
 
 Ravon, aniq, va qisqa yozishni o’rganing — siz yutasiz 🏆😎
+
+[>> Principle #5: O'z ishingizni boshqaring.](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)

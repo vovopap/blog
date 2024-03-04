@@ -17,3 +17,5 @@ Nega bunday qilishadi? Context offloading! Kompyuterdan faqrli o’laroq bizning
 Kerak bo’lganda shu dokumentlardan foydalanib ishimizni davom ettiramiz, ishimiz haqida hisobot beramiz, kelajakka planlar tuzamiz, meetinglarni paw-paw-paw qilamiz va eng muhimi bo’sh kalla bilan kechqurun yaxshiroq uxlaymiz. Shu orqali dasturchi sifatida unumdorligimiz oshadi va karyeramiz oldinlaydi 🚀
 
 Tepada aytganlarim project managementga juda o'xshab ketadi chunki bu rostdan ham project management. Aniqrog’i — shaxsiy project management 😎
+
+[>> Principle #6: O’z o’qishingizni boshqaring.](/2024/02/01/principle-6-oz-oqishingizni-boshqaring.html)

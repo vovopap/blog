@@ -11,3 +11,5 @@ Biz CEO kabi o’ylashni o’rganishimiz kerak. CEO har kuni o’ylaydi: hozirgi
 Albatta bu sizga uncha yoqmagan ishlarni qilish degani: texnik chuqur research, testing, dokumentatsiya, juniorlarni mentor qilish, va hkz unchalik mazza/oson lekin muhim bo’lgan ishlar. Men uchun eng foydasiz dasturchi bu muhim bo’lmagan feature (qanchalik cool/scalable/complex bo’lmasin) ustida ishlayotgan dasturchidir. Siz o’sha dasturchi bo’lmang!
 
 CEO kabi o’ylashni o’rgansak, keyinchalik albatta oramizdan buyuk CEOlar (yoki CTOlar) chiqadi 😎
+
+[>> Principle #2: To’siqlarga rozi bo’lmang.](/2024/01/26/principle-2-tosiqlarga-rozi-bolmang.html)

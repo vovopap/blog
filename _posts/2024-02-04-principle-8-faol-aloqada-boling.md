@@ -18,3 +18,5 @@ Lekin men bilgan pro dasturchilar introvert’liglariga qaramay ish borasida mul
 Qisqa qilib aytganda savol so’ragani o’rin qoldirishmaydi. Chunki faol aloqada bo’lish komanda unumdorligi uchun muhimligini yaxshi tushunishadi.
 
 Bunday dasturchilar sanoqli, ko'zga tez tashlanishadi va hamma ular bilan ishlashni xoxlaydi 🙂 Siz ham shunday professional bo'lishga intiling 😎
+
+[>> Principle #9: Collaboration qilishni o'rganing.](/2024/02/07/principle-9-collaboration.html)
