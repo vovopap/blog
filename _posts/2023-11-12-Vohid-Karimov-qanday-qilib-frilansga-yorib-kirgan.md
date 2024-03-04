@@ -15,3 +15,5 @@ Texnik taraflama o'sishdan tashqari, bu kompaniyada men samarali muloqotni, jamo
 Noaniq, tushunarsiz, va mujmal. Bilasizmi aslida shunday muhitda kimlar ishlaydi? Frilanserlar. Rasmiy ravishda frilansni keyinroq 2020-yilda [Toptal](https://www.toptal.com/)da boshlagan bo'lsam ham, hozir o'ylab ko'rsam frilans ishini undan oldin ham qilayotgan ekanman. Toptal frilans networkiga kirish jarayoniga qiziqsangiz batafsil yozilgan [maqolamni](https://vovopap.com/2021/12/25/hammasi-toptal-haqida.html) o'qishingiz mumkin.
 
 Shu tarzda "Yes, we can do it", "No, we can't do that in 2 weeks", "What exactly is not working?" deb frilansing qilishni davom etdim...
+
+[» Next chapter: Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan?](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)

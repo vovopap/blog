@@ -17,3 +17,5 @@ Interviewlardan yaxshi o'tganman va meni ishga olishgan. Kompaniya direktoriga t
 Kompaniyada 2 turdagi proyketlar bo'lar edi. Java ustiga qurilgan katta ERP sistema (o'zimizni produkt) va PHPda yozilgan kichik proyektlar (tashqaridan buyurtmalar). Men asosan PHP + HTML/CSS/JS bilan ishlar edim va bazi-bazida ERPda ham Java kod yozganman. Internship davomida juda ko'p kod yozganman va ancha o'sganman.
 
 Shu tarzda echo "Hello, world!" qilib davom etganman...
+
+[» Next chapter: Vohid Karimov qanday qilib frilansga yorib kirgan?](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html)

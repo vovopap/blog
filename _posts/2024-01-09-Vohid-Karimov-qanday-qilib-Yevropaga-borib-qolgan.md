@@ -20,3 +20,5 @@ Men esa bitta so'z bilan javob berdim\
 Bir haftadan keyin visa berishdi. Amerika visa interviewlarida o'zingizni jinoyatchi va qallobdek his qilib chiqganingizdan keyin bu albatta sizi hursand qilar ekan.
 
 Shunday qilib 2020 yilda Rotterdam shaxriga bir taraflama bilet olib uchib keldim...
+
+[» Next chapter: Vohid Karimov qanday qilib Googlega kirib qolgan?](/2024/01/11/Vohid-Karimov-qanday-qilib-Googlega-kirib-qolgan.html)

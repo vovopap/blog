@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: uz_UZ
-title: '"Vohid Karimov qanday qilib" post seriyalari.'
+title: 'Vohid Karimov qanday qilib (post serialari)'
 ---
 
 **“Vohid Karimov qanday qilib” post seriyalari.**

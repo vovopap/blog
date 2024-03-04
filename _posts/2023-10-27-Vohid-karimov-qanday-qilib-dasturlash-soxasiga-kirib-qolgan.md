@@ -13,3 +13,5 @@ Universitetdan avval 2 yil qattiq ingliz tili va matematika o’rganganman. 24/7
 O'sha paytda yoqotxonadagi xonadoshim java o’rganayotgan edi. O’zi java nimaligini tushunmasdan men ham uni o’rganishga qaror qildim. Xonadoshimni 15cm qalinlikdagi [_Ivor Horton's Beginning Java_](https://www.amazon.com/Ivor-Hortons-Beginning-Java-Horton/dp/0470404140) kitobi bo’lardi. U ishlatmaganda men ishlatar edim. Yana, menda kod yozgani computer yo’q edi. Opamda esa bor edi va u ishlatmaganda men ishlatar edim.
 
 Shunday tarzda, `System.out.println(“Hello, world!”)` qilib dasturlashni boshlaganman…
+
+[» Next chapter: Vohid Karimov qanday qilib dasturlashni o’rgangan?](/2023/11/04/Vohid-Karimov-qanday-qilib-dasturlashni-organgan.html)

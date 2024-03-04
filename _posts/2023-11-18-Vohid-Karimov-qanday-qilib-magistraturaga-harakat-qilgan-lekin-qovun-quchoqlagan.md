@@ -25,3 +25,5 @@ Rejection olgan kunim negadir yuragim juda yorishib ketdi. Hozir o'ylab ko'rsam 
 'Never give up' degan gap bor bilsangiz. Shu gapga uncha qo'shilmayman. Bazida o'xshamagan yo'l uchun ko'p energiya sarflash ham yaramaydi. Maqsadga yetish uchun ko'p xolatlarda bir nechta yo'llar mavjud. 'Sometimes give up and try another way' degan shior hozir menga ko'proq yoqadi. Lesson learned :)
 
 Shu tarzda qovun quchoqlab **Plan C** ortidan tushdim...
+
+[» Next chapter: Vohid Karimov qanday qilib Yevropaga borib qolgan?](/2024/01/09/Vohid-Karimov-qanday-qilib-Yevropaga-borib-qolgan.html)
