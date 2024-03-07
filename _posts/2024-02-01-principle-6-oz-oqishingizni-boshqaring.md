@@ -18,4 +18,4 @@ Baxtimga boshqa kasblardan farqli o'laroq dasturlash bu muntazam o'rganish jaray
 
 Eng asosiysi maqsad bilan o’rganing va siz yutasiz 🙂
 
-[>> Principle #7: Qurollaringizni chuqur biling.](/2024/02/02/principle-7-qurollaringizni-chuqur-biling.html)
+[<< Principle #5: O'z ishingizni boshqaring.](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html) | [Principle #7: Qurollaringizni chuqur biling. >>](/2024/02/02/principle-7-qurollaringizni-chuqur-biling.html)

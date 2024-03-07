@@ -12,4 +12,4 @@ Googleda shunday gap bor: Keyingi level promotionini olish uchun, keyingli level
 
 Albatta tashabbus ko’rsatish bu quruq gap emas. Uni qilaylik buni qilaylik bilan ish bitmaydi. Bu qattiq mehnat — ko’tti qo’yib o’sha ishni qilish kerak! 🍑🪑🚀
 
-[>> Principle #4: Yaxshi yozishni o’rganing.](/2024/01/28/principle-4-yaxshi-yozing.html)
+[<< Principle #2: To’siqlarga rozi bo’lmang.](/2024/01/26/principle-2-tosiqlarga-rozi-bolmang.html) | [Principle #4: Yaxshi yozishni o’rganing. >>](/2024/01/28/principle-4-yaxshi-yozing.html)

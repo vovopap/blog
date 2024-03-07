@@ -12,4 +12,4 @@ Albatta bu sizga uncha yoqmagan ishlarni qilish degani: texnik chuqur research, 
 
 CEO kabi o’ylashni o’rgansak, keyinchalik albatta oramizdan buyuk CEOlar (yoki CTOlar) chiqadi 😎
 
-[>> Principle #2: To’siqlarga rozi bo’lmang.](/2024/01/26/principle-2-tosiqlarga-rozi-bolmang.html)
+[<< Ten Principles for Growth as an Engineer (by Dan Heller). Mundarija](/2024/01/24/ten-principles-intro.html) | [Principle #2: To’siqlarga rozi bo’lmang. >>](/2024/01/26/principle-2-tosiqlarga-rozi-bolmang.html)

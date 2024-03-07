@@ -18,4 +18,4 @@ Kerak bo’lganda shu dokumentlardan foydalanib ishimizni davom ettiramiz, ishim
 
 Tepada aytganlarim project managementga juda o'xshab ketadi chunki bu rostdan ham project management. Aniqrog’i — shaxsiy project management 😎
 
-[>> Principle #6: O’z o’qishingizni boshqaring.](/2024/02/01/principle-6-oz-oqishingizni-boshqaring.html)
+[<< Principle #4: Yaxshi yozishni o’rganing.](/2024/01/28/principle-4-yaxshi-yozing.html) | [Principle #6: O’z o’qishingizni boshqaring. >>](/2024/02/01/principle-6-oz-oqishingizni-boshqaring.html)

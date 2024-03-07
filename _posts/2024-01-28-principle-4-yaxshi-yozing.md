@@ -20,4 +20,4 @@ oldim:
 
 Ravon, aniq, va qisqa yozishni o’rganing — siz yutasiz 🏆😎
 
-[>> Principle #5: O'z ishingizni boshqaring.](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)
+[<< Principle #3: Tashabbus ko’rsating](/2024/01/27/principle-3-tashabbus-korsating.html) | [Principle #5: O'z ishingizni boshqaring. >>](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)

@@ -23,3 +23,4 @@ O’zingiz uchun shu prinsiplarni o’qib chiqing, keyin muhokama qilamiz. Ketti
 9. Principle #9: [Collaboration qilishni o'rganing.](/2024/02/07/principle-9-collaboration.html)
 10. Principle #10: [Professional va ishonchli bo'ling.](/2024/02/09/principle-10-professional-va-ishonchli-boling.html)
 
+[Principle #1: CEO kabi fikrlang. >>](/2024/01/25/principle-1-ceo-kabi-fikrlang.html)

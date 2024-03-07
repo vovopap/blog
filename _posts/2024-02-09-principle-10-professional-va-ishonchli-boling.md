@@ -16,4 +16,6 @@ Xayot Dr. House emas. Qanchalik “aqlli” yoki “zo’r” bo'lmang, o'zingiz
 
 Haqiyqiy professionalni barcha qadrlaydi, undan ham muhimi bu o'zini tutishni to'g'ri yo'li.
 
-P.s. Bu postning qaysidir qismlari Kodir Amirov tarjimasidan (https://t.me/vovopapcom/479?comment=6105) olingan. Raxmat, Kodir 👌
+P.s. Bu postning qaysidir qismlari [Kodir Amirov tarjimasidan](https://t.me/vovopapcom/479?comment=6105) olingan. Raxmat, Kodir 👌
+
+[<< Principle #9: Collaboration qilishni o'rganing.](/2024/02/07/principle-9-collaboration.html) | [Ten Principles for Growth as an Engineer (by Dan Heller). Mundarija >>](/2024/01/24/ten-principles-intro.html) 

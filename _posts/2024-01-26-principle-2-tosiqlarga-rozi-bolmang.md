@@ -17,4 +17,4 @@ Yo’lingizni ochishni o’rganishingiz kerak:\
 
 Shundagina bir ishingiz ikki bo’ladi, kunning ohirida o’zingizdan mamnun bo’lasiz, va karyerangiz oldinlaydi 🚀
 
-[>> Principle #3: Tashabbus ko’rsating](/2024/01/27/principle-3-tashabbus-korsating.html)
+[<< Principle #1: CEO kabi fikrlang.](/2024/01/25/principle-1-ceo-kabi-fikrlang.html) | [Principle #3: Tashabbus ko’rsating >>](/2024/01/27/principle-3-tashabbus-korsating.html)
