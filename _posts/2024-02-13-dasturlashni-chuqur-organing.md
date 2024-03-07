@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: uz_UZ
-title: "Freymvorklar va til asosi haqida"
+title: "Dasturlashni chuqur o'rganing"
 ---
 
 ![learn-basics](/assets/baseni-organ.jpg)
