@@ -24,3 +24,5 @@ Vohid Karimov qanday qilib…
 Umid qilaman sizlarga foydali va qiziqarli bo’ladi. Kettik!
 
 O’zim uchun eslatma: Iloji boricha texnik nuqtayi nazardan yozaman: o’rgangan dasturlash tillar / dasturlash texnologiyalar / o’rganish strategiyalar / karyera qarorlari / vhk.
+
+[Next chapter: Vohid Karimov qanday qilib dasturlash soxasiga kirib qolgan? >>](/2023/10/27/Vohid-karimov-qanday-qilib-dasturlash-soxasiga-kirib-qolgan.html)

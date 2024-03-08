@@ -18,4 +18,4 @@ Kompaniyada 2 turdagi proyketlar bo'lar edi. Java ustiga qurilgan katta ERP sist
 
 Shu tarzda echo "Hello, world!" qilib davom etganman...
 
-[» Next chapter: Vohid Karimov qanday qilib frilansga yorib kirgan?](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html)
+[<< Previous chapter: Vohid Karimov qanday qilib dasturlashni o’rgangan?](/2023/11/04/Vohid-Karimov-qanday-qilib-dasturlashni-organgan.html) | [Next chapter: Vohid Karimov qanday qilib frilansga yorib kirgan? >>](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html)

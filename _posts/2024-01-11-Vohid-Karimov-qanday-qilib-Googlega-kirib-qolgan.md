@@ -22,3 +22,5 @@ Roppa-rosa Swisscom bilan 1 yil ishlagach managerimga va komandamga Googlega ket
 Shunday qilib 2022-yilni Fevralida mit Karte bitte deb Munichga ko’chib o’tdim va Googledagi karyeramni boshladim 🙂
 
 P.s. Interviewga tayyorlanish jarayoni va foydali resurslar haqida [bu blog postimda](/2022/02/06/my-FAANG-interview-experience-four-onsite-interviews-almost-four-offers.html) batafsil yozganman.
+
+["Vohid Karimov qanday qilib" seriyasi mundarija](/2023/10/27/how-to-intro.html)

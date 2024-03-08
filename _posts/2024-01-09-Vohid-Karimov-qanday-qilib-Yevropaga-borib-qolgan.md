@@ -6,7 +6,7 @@ title: "Vohid Karimov qanday qilib Yevropaga borib qolgan?"
 
 **Vohid Karimov qanday qilib Yevropaga borib qolgan?**
 
-Amerikaga va Kanadaga o’qish ([Plan A va B](https://t.me/vovopapcom/427)) uchun visa ololmaganimda keyin Plan C, Yevropaga non-FAANG kompaniyaga topshirib keyin FAANGga o’tib ketishni niyat qildim.
+Amerikaga va Kanadaga o’qish ([Plan A va B](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)) uchun visa ololmaganimda keyin Plan C, Yevropaga non-FAANG kompaniyaga topshirib keyin FAANGga o’tib ketishni niyat qildim.
 
 Baxtimga Linkedindan bir recruiting agentligi chiqib meni interviewga taklif qilishdi. Ular uchun meni backgroundim 100% match bo’ldi — backend uchun Spring, frontend uchun Angular tajribasi bo’lgan Fullstack dasturchisi. Interviewlardan muvaffaqiyatli o’tib Swisscom kompaniyasidan job offer oldim. Interviewlardan yaxshi o’tganimni sababi undan oldin boshqa kompaniyalar (EPAM, Toptal, va hokazo) bilan interview qilib yaxshigina mashq qilib olganim bo’lgan.
 
@@ -21,4 +21,4 @@ Bir haftadan keyin visa berishdi. Amerika visa interviewlarida o'zingizni jinoya
 
 Shunday qilib 2020 yilda Rotterdam shaxriga bir taraflama bilet olib uchib keldim...
 
-[» Next chapter: Vohid Karimov qanday qilib Googlega kirib qolgan?](/2024/01/11/Vohid-Karimov-qanday-qilib-Googlega-kirib-qolgan.html)
+[<< Previous chapter: Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan?](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html) | [Next chapter: Vohid Karimov qanday qilib Googlega kirib qolgan? >>](/2024/01/11/Vohid-Karimov-qanday-qilib-Googlega-kirib-qolgan.html)

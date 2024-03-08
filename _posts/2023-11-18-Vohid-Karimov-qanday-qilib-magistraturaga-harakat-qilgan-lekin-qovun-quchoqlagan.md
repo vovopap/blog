@@ -26,4 +26,4 @@ Rejection olgan kunim negadir yuragim juda yorishib ketdi. Hozir o'ylab ko'rsam 
 
 Shu tarzda qovun quchoqlab **Plan C** ortidan tushdim...
 
-[» Next chapter: Vohid Karimov qanday qilib Yevropaga borib qolgan?](/2024/01/09/Vohid-Karimov-qanday-qilib-Yevropaga-borib-qolgan.html)
+[<< Previous chapter: Vohid Karimov qanday qilib frilansga yorib kirgan?](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html) | [Next chapter: Vohid Karimov qanday qilib Yevropaga borib qolgan? >>](/2024/01/09/Vohid-Karimov-qanday-qilib-Yevropaga-borib-qolgan.html)

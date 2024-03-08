@@ -16,4 +16,4 @@ Noaniq, tushunarsiz, va mujmal. Bilasizmi aslida shunday muhitda kimlar ishlaydi
 
 Shu tarzda "Yes, we can do it", "No, we can't do that in 2 weeks", "What exactly is not working?" deb frilansing qilishni davom etdim...
 
-[» Next chapter: Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan?](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)
+[<< Previous chapter: Vohid Karimov qanday qilib birinchi ishini topgan?](/2023/11/05/Vohid-Karimov-qanday-qilib-birinchi-ishini-topgan.html) | [Next chapter: Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan? >>](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)

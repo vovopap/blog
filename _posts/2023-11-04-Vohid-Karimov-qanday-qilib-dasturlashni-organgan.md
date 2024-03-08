@@ -16,4 +16,4 @@ Sherali aka o'zlari juda ishtiyoqli odam va dasturlashda ham shundaylar. Menda h
 
 Shu tarzda men dasturlashga sho'ng'ib ketdim...
 
-[» Next chapter: Vohid Karimov qanday qilib birinchi ishini topgan?](/2023/11/05/Vohid-Karimov-qanday-qilib-birinchi-ishini-topgan.html)
+[<< Previous chapter: Vohid Karimov qanday qilib dasturlash soxasiga kirib qolgan?](/2023/10/27/Vohid-karimov-qanday-qilib-dasturlash-soxasiga-kirib-qolgan.html) | [Next chapter: Vohid Karimov qanday qilib birinchi ishini topgan? >>](/2023/11/05/Vohid-Karimov-qanday-qilib-birinchi-ishini-topgan.html)

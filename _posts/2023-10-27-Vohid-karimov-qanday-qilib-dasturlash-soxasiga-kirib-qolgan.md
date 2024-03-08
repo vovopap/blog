@@ -14,4 +14,4 @@ O'sha paytda yoqotxonadagi xonadoshim java o’rganayotgan edi. O’zi java nima
 
 Shunday tarzda, `System.out.println(“Hello, world!”)` qilib dasturlashni boshlaganman…
 
-[» Next chapter: Vohid Karimov qanday qilib dasturlashni o’rgangan?](/2023/11/04/Vohid-Karimov-qanday-qilib-dasturlashni-organgan.html)
+[Next chapter: Vohid Karimov qanday qilib dasturlashni o’rgangan? >>](/2023/11/04/Vohid-Karimov-qanday-qilib-dasturlashni-organgan.html)
