@@ -12,4 +12,4 @@ Masalan, unix commandalarni chuqur o’rganing, git commit/pull/push komandalari
 
 Tepadagi qobilyatlar sizni 10x dasturchisiga aylantiradi 🥷
 
-[<< Principle #6: O’z o’qishingizni boshqaring.](/2024/02/01/principle-6-oz-oqishingizni-boshqaring.html) | [Principle #8: Faol aloqada bo'ling. >>](/2024/02/04/principle-8-faol-aloqada-boling.html)
+[<< Previous chapter](/2024/02/01/principle-6-oz-oqishingizni-boshqaring.html) | [Next chapter >>](/2024/02/04/principle-8-faol-aloqada-boling.html)

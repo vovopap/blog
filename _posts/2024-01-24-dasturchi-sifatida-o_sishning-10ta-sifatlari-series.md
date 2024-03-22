@@ -1,9 +1,13 @@
 ---
 layout: post
 locale: uz_UZ
-title: "Ten Principles for Growth as an Engineer (by Dan Heller)"
+title: "Dasturchi sifatida o'sishning 10ta sifatlari (series)"
 ---
-
+<style>
+  img {
+    max-width: 100%;
+  }
+</style>
 ![ten-principles](/assets/principles.jpg)
 
 Yaqinda bir qiziq artiklga ko’zim tushdi — [Ten Principles for Growth as an Engineer (by Dan Heller)](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
@@ -23,4 +27,4 @@ O’zingiz uchun shu prinsiplarni o’qib chiqing, keyin muhokama qilamiz. Ketti
 9. Principle #9: [Collaboration qilishni o'rganing.](/2024/02/07/principle-9-collaboration.html)
 10. Principle #10: [Professional va ishonchli bo'ling.](/2024/02/09/principle-10-professional-va-ishonchli-boling.html)
 
-[Principle #1: CEO kabi fikrlang. >>](/2024/01/25/principle-1-ceo-kabi-fikrlang.html)
+[Next chapter >>](/2024/01/25/principle-1-ceo-kabi-fikrlang.html)

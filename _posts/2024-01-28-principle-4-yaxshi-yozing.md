@@ -13,11 +13,11 @@ Commentlarni hammasi hurmat bilan konstruktiv yozilgan bo'lsada men ularni o’q
 tushunib yetganman. Bunday emotional damagedan keyin yozish ustida ancha ishladim.
 
 Googleda har yil ohirida hamkasblaringizdan peer feedback olsangiz bo’ladi. Men ham yaqinda bir hamkasbdan feedback
-oldim:
-— Vohid, barakalla! Yaxshi design doclar yozyapsan.
-— Rostan-a?
+oldim:\
+— Vohid, barakalla! Yaxshi design doclar yozyapsan.\
+— Rostan-a?\
 — Ha, albatta. Birinchi yozgan design docingni eslaysanmi?
 
 Ravon, aniq, va qisqa yozishni o’rganing — siz yutasiz 🏆😎
 
-[<< Principle #3: Tashabbus ko’rsating](/2024/01/27/principle-3-tashabbus-korsating.html) | [Principle #5: O'z ishingizni boshqaring. >>](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)
+[<< Previous chapter](/2024/01/27/principle-3-tashabbus-korsating.html) | [Next chapter >>](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)
