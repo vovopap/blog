@@ -3,8 +3,7 @@ layout: post
 locale: uz_UZ
 title: "Vohid Karimov qanday qilib frilansga yorib kirgan?"
 ---
-
-**Vohid Karimov qanday qilib frilansga yorib kirgan?**
+[<< Previous chapter](/2023/11/05/Vohid-Karimov-qanday-qilib-birinchi-ishini-topgan.html)
 
 Algoritm Consulting kompaniyasida 6 oy internship qilib Recruitly startupiga asosiy dasturchi sifatida ishlashni boshladim. Menga shu proyektni noldan qurish topshirilgan edi. Proyektni ham backend ham frontend qismini o'zim yozib chiqdim. Backend uchun PHP Yii frameworkini ishlatdim, database uchun MySQL va frontend uchun esa Angular.js web frameworkini ishlatdim. Proyektni qurish jarayonida shu texnologiyalarni chuqur o'rganib va ishda qo'llab ancha tajriba oldim. Proyektni noldan qurish imkoniyati har doim ham bo'lavermaydi. Bu o'zimdagi dasturlashga bo'lgan ishonchni oshirishda va keyinchalik kattaroq ishlarga qo'l urishimga yordam berdi.
 
@@ -16,4 +15,4 @@ Noaniq, tushunarsiz, va mujmal. Bilasizmi aslida shunday muhitda kimlar ishlaydi
 
 Shu tarzda "Yes, we can do it", "No, we can't do that in 2 weeks", "What exactly is not working?" deb frilansing qilishni davom etdim...
 
-[<< Previous chapter: Vohid Karimov qanday qilib birinchi ishini topgan?](/2023/11/05/Vohid-Karimov-qanday-qilib-birinchi-ishini-topgan.html) | [Next chapter: Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan? >>](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)
+ [Next chapter >>](/2023/11/18/Vohid-Karimov-qanday-qilib-magistraturaga-harakat-qilgan-lekin-qovun-quchoqlagan.html)

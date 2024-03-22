@@ -3,8 +3,7 @@ layout: post
 locale: uz_UZ
 title: "Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan?"
 ---
-
-**Vohid Karimov qanday qilib magistraturaga harakat qilgan, lekin qovun quchoqlagan?**
+[<< Previous chapter](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html)
 
 2018-yilda universitetni bitirgach menda yagona maqsad bo'lgan - FAANG. Uni amalga oshirish uchun esa 3ta plan bo'lgan:
 
@@ -26,4 +25,4 @@ Rejection olgan kunim negadir yuragim juda yorishib ketdi. Hozir o'ylab ko'rsam 
 
 Shu tarzda qovun quchoqlab **Plan C** ortidan tushdim...
 
-[<< Previous chapter: Vohid Karimov qanday qilib frilansga yorib kirgan?](/2023/11/12/Vohid-Karimov-qanday-qilib-frilansga-yorib-kirgan.html) | [Next chapter: Vohid Karimov qanday qilib Yevropaga borib qolgan? >>](/2024/01/09/Vohid-Karimov-qanday-qilib-Yevropaga-borib-qolgan.html)
+ [Next chapter >>](/2024/01/09/Vohid-Karimov-qanday-qilib-Yevropaga-borib-qolgan.html)

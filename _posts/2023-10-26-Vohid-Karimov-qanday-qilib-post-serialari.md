@@ -4,7 +4,6 @@ locale: uz_UZ
 title: 'Vohid Karimov qanday qilib (post serialari)'
 ---
 
-**“Vohid Karimov qanday qilib” post seriyalari.**
 
 Yaqinda kanalimda [feedback](https://t.me/vovopapcom/346) so’radim. Juda foydali fikr muloxazalar bo’ldi. Hammalaringizga yana bir bor raxmat 🙂
 
@@ -25,4 +24,4 @@ Umid qilaman sizlarga foydali va qiziqarli bo’ladi. Kettik!
 
 O’zim uchun eslatma: Iloji boricha texnik nuqtayi nazardan yozaman: o’rgangan dasturlash tillar / dasturlash texnologiyalar / o’rganish strategiyalar / karyera qarorlari / vhk.
 
-[Next chapter: Vohid Karimov qanday qilib dasturlash soxasiga kirib qolgan? >>](/2023/10/27/Vohid-karimov-qanday-qilib-dasturlash-soxasiga-kirib-qolgan.html)
+[Next chapter >>](/2023/10/27/Vohid-karimov-qanday-qilib-dasturlash-soxasiga-kirib-qolgan.html)
