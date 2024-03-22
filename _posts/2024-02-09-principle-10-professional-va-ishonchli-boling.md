@@ -4,6 +4,8 @@ locale: uz_UZ
 title: "Principle #10: Professional va ishonchli bo'ling."
 ---
 
+[<< Previous chapter](/2024/02/07/principle-9-collaboration.html)
+
 O'zingizni professional sifatida qabul qiling va harakatlaringiz ham shunga mos bo'lsin:\
 — Meetinglarga o'z vaqtida tayyor keling, so'ng diqqat bilan eshiting\
 — Majburiyatlaringizni va'da berilganidek bajaring va …\
@@ -12,10 +14,12 @@ O'zingizni professional sifatida qabul qiling va harakatlaringiz ham shunga mos 
 — Nolishni kamaytiring, o’rniga yechimlarni o’rtaga tashlang\
 — Atrofingizdagilarni yuqoriga ko'taring, pastga urmang
 
-Xayot Dr. House emas. Qanchalik “aqlli” yoki “zo’r” bo'lmang, o'zingizni tepadagidek tutmasangiz karyerangizda o'sishingiz juda qiyin.
+Xayot Dr. House emas. Qanchalik “aqlli” yoki “zo’r” bo'lmang, o'zingizni tepadagidek tutmasangiz karyerangizda o'
+sishingiz juda qiyin.
 
 Haqiyqiy professionalni barcha qadrlaydi, undan ham muhimi bu o'zini tutishni to'g'ri yo'li.
 
-P.s. Bu postning qaysidir qismlari [Kodir Amirov tarjimasidan](https://t.me/vovopapcom/479?comment=6105) olingan. Raxmat, Kodir 👌
+P.s. Bu postning qaysidir qismlari [Kodir Amirov tarjimasidan](https://t.me/vovopapcom/479?comment=6105) olingan.
+Raxmat, Kodir 👌
 
-[<< Previous chapter](/2024/02/07/principle-9-collaboration.html) 
+

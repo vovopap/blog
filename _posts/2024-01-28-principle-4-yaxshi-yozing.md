@@ -4,6 +4,8 @@ locale: uz_UZ
 title: "Principle #4: Yaxshi yozishni o’rganing."
 ---
 
+[<< Previous chapter](/2024/01/27/principle-3-tashabbus-korsating.html)
+
 Karyeramiz davomida savol so’raymiz, javob beramiz, code comment yozamiz, dokumentatsiya ustida ishlaymiz, code reviewda
 qatnashamiz, rezume tayyorlaymiz, design doc yozamiz, bloglar yozamiz, va hkz. Ko’rib turganimizdek juda ko’p yozamiz.
 Yozish qobilyati karyeramiz o’sishi uchun juda muhim bo’lgan elementlaridan biri xisoblanadi.
@@ -20,4 +22,4 @@ oldim:\
 
 Ravon, aniq, va qisqa yozishni o’rganing — siz yutasiz 🏆😎
 
-[<< Previous chapter](/2024/01/27/principle-3-tashabbus-korsating.html) | [Next chapter >>](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)
+[Next chapter >>](/2024/01/29/principle-5-oz-ishingizni-boshqaring.html)

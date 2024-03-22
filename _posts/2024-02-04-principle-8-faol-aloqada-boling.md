@@ -4,7 +4,11 @@ locale: uz_UZ
 title: "Principle #8: Faol aloqada bo'ling."
 ---
 
-Hammamiz yaxshi bilamiz biz dasturchilarga nisbatan stereotype bor. Ko’pchilik bizni introvert deb biladi. Fotunately or unfoturantely, bunda oz-moz haqiqat bor. Biz rostdan ham kam gapmiz. Chunki biz bullshit qilishni va small talkni yoqtirmaymiz. Bu shubhasiz yaxshi xislatlar.
+[<< Previous chapter](/2024/02/02/principle-7-qurollaringizni-chuqur-biling.html)
+
+Hammamiz yaxshi bilamiz biz dasturchilarga nisbatan stereotype bor. Ko’pchilik bizni introvert deb biladi. Fotunately or
+unfoturantely, bunda oz-moz haqiqat bor. Biz rostdan ham kam gapmiz. Chunki biz bullshit qilishni va small talkni
+yoqtirmaymiz. Bu shubhasiz yaxshi xislatlar.
 
 Lekin men bilgan pro dasturchilar introvert’liglariga qaramay ish borasida muloqot qilishni o’z o’rniga qo’yishadi:\
 — standupda ochiq oydin progress update berishadi\
@@ -15,8 +19,10 @@ Lekin men bilgan pro dasturchilar introvert’liglariga qaramay ish borasida mul
 — hamkasblar bilan muntazam muloqotda bo’lishadi  (1:1 meetings)\
 — munozaralarda o'z fikrlarini jarang ammo oqilona bildirishadi
 
-Qisqa qilib aytganda savol so’ragani o’rin qoldirishmaydi. Chunki faol aloqada bo’lish komanda unumdorligi uchun muhimligini yaxshi tushunishadi.
+Qisqa qilib aytganda savol so’ragani o’rin qoldirishmaydi. Chunki faol aloqada bo’lish komanda unumdorligi uchun
+muhimligini yaxshi tushunishadi.
 
-Bunday dasturchilar sanoqli, ko'zga tez tashlanishadi va hamma ular bilan ishlashni xoxlaydi 🙂 Siz ham shunday professional bo'lishga intiling 😎
+Bunday dasturchilar sanoqli, ko'zga tez tashlanishadi va hamma ular bilan ishlashni xoxlaydi 🙂 Siz ham shunday
+professional bo'lishga intiling 😎
 
-[<< Previous chapter](/2024/02/02/principle-7-qurollaringizni-chuqur-biling.html) | [Next chapter >>](/2024/02/07/principle-9-collaboration.html)
+[Next chapter >>](/2024/02/07/principle-9-collaboration.html)
