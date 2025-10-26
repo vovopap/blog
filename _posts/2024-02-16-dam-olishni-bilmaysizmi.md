@@ -6,8 +6,6 @@ title: "Dam olishni bilmaysimi?"
 
 ![stressed-John](/assets/buffet.jpg)
 
-**Dam olishni bilmaysimi?**
-
 Afsuski oramizda ko’pchilik to’g’ri dam olishni bilmaydi. Ishdan uyga qaytsakda miyamiz ofisda qolib ketadi. Dam olish kunlari kompyuterimizni birrovga tekshirib qo’yamiz. Kerak bo’lmasada kompyuterimizni o’zimiz bilan har joyga olib boramiz. Just in case deymiz.
 
 Dasturlash soxasida uzoqqa bormoqchi bo’lsangiz bu narsa yaramaydi. To’g’ri dam olishni o’rganishingiz kerak. Hop, to’g’ri dam olish qanday bo’ladi? Qisqa qilib aytganda, siz shunday dam olishingiz kerakki siz ishni sog’inishingiz kerak. Ishga g’ayrat bilan qaytishingiz kerak.
